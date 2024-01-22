@@ -12,6 +12,43 @@ body {
 }
 
 img {
-    width: 100px;
+    width: 90px;
 }
 
+h1 {
+    font-family: "Josefin Sans", sans-serif;
+    font-weight: 700;
+}
+
+textarea {
+    background-color: #444059;
+    font-family: Inter, sans-serif;
+    font-weight: 400;
+    border: none;
+border-radius: 15px;
+padding: 10px
+}
+
+button {
+    margin-top: 15px;
+    margin-bottom: 25px;
+    background-color: #28A9F1;
+    color: #04131C;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 130px;
+    font-family: "Josefin Sans", sans-serif;
+    font-weight: 700;
+}
+
+h2 {
+    font-family: "Josefin Sans", sans-serif;
+    font-weight: 700;
+    
+}
+
+div {
+    background-color: white;
+    color: #1B1924;
+    border: solid white;
+}

@@ -23,7 +23,7 @@ function clearEndorsementsListEl() {
 
 function appendItemToEndorsementsListEl(item) {
     let itemValue = item[1]
-    let newEl = document.createElement("li")
+    let newEl = document.createElement("p")
     newEl.textContent = itemValue
     endorsementsListEl.append(newEl)
 }
